@@ -1,4 +1,5 @@
 import React from 'react';
+import '../hojas-de-estilo/testimonio.css'
 
 function Testimonio(){
   return (
