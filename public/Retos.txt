@@ -1,0 +1,17 @@
+CONSEJOS:
+
+- En react se recomienda un espacio antes de la barra de las self closing tabs. 
+
+- npx create-react-app no es la unica forma de crear una App de React, pero si la mas rapita e intuitiva porque te crea una estructura con carpetas. 
+
+- La extension JSX tambien funciona. Esta extension nos permite ser mas especifico y se sabe que el proyecto tiene codigo en lenguaje jsx.
+
+- A partir de 2017 ya no es indispensable importar React (import React from 'react';). No es necesaria, pero se recomienda. Solo es obligatoria cuando se trabaja con Hooks.
+
+RETOS:
+
+- Lograr que el texto en negrita de los testimonios se vea en negrita.
+
+- Cambiar el valor de alt en las imagenes. Ej: imagen de Shawn, alt "Foto de Shawn".
+
+- Guardar los valores de los props en archivos separados. En lugar de tenerlos fijos en el sitio, poder recopilarlos de un archivo de JS(objetos).
